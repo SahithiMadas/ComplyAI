@@ -1,0 +1,87 @@
+[
+    {
+      "id": "A.5.1.1",
+      "title": "Information Security Policies",
+      "description": "A set of policies for information security shall be defined, approved by management, published and communicated to employees and relevant external parties."
+    },
+    {
+      "id": "A.6.1.1",
+      "title": "Information Security Roles and Responsibilities",
+      "description": "All information security responsibilities shall be defined and allocated."
+    },
+    {
+      "id": "A.7.2.1",
+      "title": "Management Responsibilities",
+      "description": "Management shall require all employees and contractors to apply information security in accordance with the established policies and procedures of the organization."
+    },
+    {
+      "id": "A.8.1.1",
+      "title": "Inventory of Assets",
+      "description": "Assets associated with information and information processing facilities shall be identified and an inventory of these assets shall be drawn up and maintained."
+    },
+    {
+      "id": "A.9.1.1",
+      "title": "Access Control Policy",
+      "description": "An access control policy shall be established, documented and reviewed based on business and information security requirements."
+    },
+    {
+      "id": "A.9.4.3",
+      "title": "Password Management System",
+      "description": "Password management systems shall be interactive and shall ensure quality passwords."
+    },
+    {
+      "id": "A.10.1.1",
+      "title": "Policy on the Use of Cryptographic Controls",
+      "description": "A policy on the use of cryptographic controls for protection of information shall be developed and implemented."
+    },
+    {
+      "id": "A.11.1.1",
+      "title": "Physical Security Perimeter",
+      "description": "Security perimeters shall be defined and used to protect areas that contain either sensitive or critical information and information processing facilities."
+    },
+    {
+      "id": "A.12.1.1",
+      "title": "Documented Operating Procedures",
+      "description": "Operating procedures shall be documented and made available to all users who need them."
+    },
+    {
+      "id": "A.12.6.1",
+      "title": "Management of Technical Vulnerabilities",
+      "description": "Information about technical vulnerabilities of information systems being used shall be obtained in a timely fashion, the organization's exposure to such vulnerabilities evaluated and appropriate measures taken to address the associated risk."
+    },
+    {
+      "id": "A.13.1.1",
+      "title": "Network Controls",
+      "description": "Networks shall be managed and controlled to protect information in systems and applications."
+    },
+    {
+      "id": "A.14.1.1",
+      "title": "Information Security Requirements Analysis and Specification",
+      "description": "The information security related requirements shall be included in the requirements for new information systems or enhancements to existing information systems."
+    },
+    {
+      "id": "A.15.1.1",
+      "title": "Information Security Policy for Supplier Relationships",
+      "description": "Information security requirements for mitigating the risks associated with supplier's access to the organization's assets shall be agreed with the supplier and documented."
+    },
+    {
+      "id": "A.16.1.1",
+      "title": "Responsibilities and Procedures",
+      "description": "Management responsibilities and procedures shall be established to ensure a quick, effective and orderly response to information security incidents."
+    },
+    {
+      "id": "A.17.1.1",
+      "title": "Planning Information Security Continuity",
+      "description": "The organization shall determine its requirements for information security and the continuity of information security management in adverse situations, e.g. during a crisis or disaster."
+    },
+    {
+      "id": "A.18.1.1",
+      "title": "Identification of Applicable Legislation and Contractual Requirements",
+      "description": "All relevant legislative statutory, regulatory, contractual requirements and the organization's approach to meet these requirements shall be explicitly identified, documented and kept up to date for each information system and the organization."
+    },
+    {
+      "id": "A.18.2.1",
+      "title": "Independent Review of Information Security",
+      "description": "The organization's approach to managing information security and its implementation (i.e. control objectives, controls, policies, processes and procedures for information security) shall be reviewed independently at planned intervals or when significant changes occur."
+    }
+  ]

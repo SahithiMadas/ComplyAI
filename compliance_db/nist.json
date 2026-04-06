@@ -1,0 +1,87 @@
+[
+    {
+      "id": "AC-1",
+      "title": "Access Control Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates an access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "AC-2",
+      "title": "Account Management",
+      "description": "The organization manages information system accounts, including establishing, activating, modifying, reviewing, disabling, and removing accounts."
+    },
+    {
+      "id": "AC-3",
+      "title": "Access Enforcement",
+      "description": "The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies."
+    },
+    {
+      "id": "AC-4",
+      "title": "Information Flow Enforcement",
+      "description": "The information system enforces approved authorizations for controlling the flow of information within the system and between interconnected systems based on applicable policy."
+    },
+    {
+      "id": "AC-17",
+      "title": "Remote Access",
+      "description": "The organization establishes and documents usage restrictions, configuration/connection requirements, and implementation guidance for each type of remote access allowed."
+    },
+    {
+      "id": "AU-1",
+      "title": "Audit and Accountability Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates an audit and accountability policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "AU-2",
+      "title": "Audit Events",
+      "description": "The organization determines that the information system is capable of auditing specific events, configures auditing for those events, and reviews and updates the list of audited events."
+    },
+    {
+      "id": "CM-1",
+      "title": "Configuration Management Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates a configuration management policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "CM-2",
+      "title": "Baseline Configuration",
+      "description": "The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system."
+    },
+    {
+      "id": "CP-1",
+      "title": "Contingency Planning Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates a contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "IA-1",
+      "title": "Identification and Authentication Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates an identification and authentication policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "IA-2",
+      "title": "Identification and Authentication (Organizational Users)",
+      "description": "The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users)."
+    },
+    {
+      "id": "IR-1",
+      "title": "Incident Response Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates an incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "PL-1",
+      "title": "Security Planning Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates a security planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "RA-1",
+      "title": "Risk Assessment Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates a risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "SC-1",
+      "title": "System and Communications Protection Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates a system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    },
+    {
+      "id": "SI-1",
+      "title": "System and Information Integrity Policy and Procedures",
+      "description": "The organization develops, documents, and disseminates a system and information integrity policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance."
+    }
+  ]
